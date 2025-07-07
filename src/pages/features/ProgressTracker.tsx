@@ -15,6 +15,7 @@ const mockStudents = [
   { id: 7, name: "karthik Reddy", rank: 7, assignments: 7, quizzes: 4, projects: 1, performance: 68 },
   { id: 8, name: "Sita Gupta", rank: 8, assignments: 6, quizzes: 4, projects: 1, performance: 65 },
   { id: 9, name: "Arjun Yadav", rank: 9, assignments: 6, quizzes: 3, projects: 1, performance: 62 },
+
   { id: 10, name: "Pooja Jain", rank: 10, assignments: 5, quizzes: 3, projects: 0, performance: 58 }
 ];
 
